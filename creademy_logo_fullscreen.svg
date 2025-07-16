@@ -1,0 +1,32 @@
+
+<svg width="100vw" height="100vh" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg" fill="#ffffff">
+  <style>
+    .main-text {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 80px;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    .tagline {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 28px;
+      font-weight: 300;
+      fill: #ffffff;
+    }
+    .icon-bulb {
+      fill: #ffffff;
+    }
+  </style>
+
+  <!-- Icon: simple creative light bulb -->
+  <g transform="translate(50, 80)">
+    <circle cx="25" cy="25" r="25" class="icon-bulb" fill-opacity="0.15"/>
+    <path class="icon-bulb" d="M25 5a20 20 0 0 0-10 38v10h20v-10A20 20 0 0 0 25 5zm-5 33a1 1 0 1 1 10 0h-10z"/>
+  </g>
+
+  <!-- Main brand text -->
+  <text x="120" y="100" class="main-text">Creademy</text>
+
+  <!-- Tagline -->
+  <text x="120" y="150" class="tagline">نحو بيئة رقمية متكاملة</text>
+</svg>
