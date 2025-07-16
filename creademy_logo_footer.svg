@@ -1,0 +1,23 @@
+
+<svg width="140" height="50" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg" fill="#ffffff">
+  <style>
+    .logo-text {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 40px;
+      font-weight: bold;
+      fill: #ffffff;
+    }
+    .icon {
+      fill: #ffffff;
+    }
+  </style>
+
+  <!-- Icon: Creative spark symbol (small bulb) -->
+  <g transform="translate(10, 25)">
+    <circle cx="25" cy="25" r="20" class="icon" fill-opacity="0.1"/>
+    <path class="icon" d="M25 8a17 17 0 0 0-8.5 32v8h17v-8A17 17 0 0 0 25 8zm-4 29a1 1 0 1 1 8 0h-8z"/>
+  </g>
+
+  <!-- Brand Name -->
+  <text x="70" y="45" class="logo-text">Creademy</text>
+</svg>
